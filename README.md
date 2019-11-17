@@ -1,1 +1,3 @@
-# Audio_Emotion_Classification
+# Audio Emotion Classification
+## Objective
+With the increase of time series data availability, traditional probabilistic time series models seem to gradually lose public interest due to their inability to capture complicated structured data, whereas DNN based models start to gain popularity [1]. Specifically, in speech classification, DNN based models are shown to be having the best performance. In this paper, we aim to analyze the performance of different types of models towards speech data. The questions we seek to answer are: 1) what is the most effective model in modeling audio data and why, 2) can we combine traditional time series models and neural net based models to achieve better model performance?
